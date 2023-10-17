@@ -7,5 +7,5 @@ Linguagens de Programação - Interpretador TINY em C#
 
 | Comando                |  Função                                                                                           |
 | -----------------------| ------------------------------------------------------------------------------------------------- |
-|  `make`                | Executa a compilação do programa utilizando o gcc, e o resultado vai para a pasta build           |
-|  `./main.exe examples/arquivo.tiny`            | Executa o programa da pasta build após a realização da compilação interpretando o arquivo tiny selecionado |
+|  `make`                | Executa a compilação do programa e cria o `main.exe`           |
+|  `./main.exe examples/arquivo.tiny`            | Executa o `main.exe` após a realização da compilação interpretando o arquivo tiny selecionado |
